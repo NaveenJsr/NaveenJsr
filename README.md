@@ -29,4 +29,4 @@
 
 
 [twitter]: https://twitter.com/Naveen_kr_jsr
-[linkedin]: www.linkedin.com/in/naveenjsr
+[linkedin]: https://www.linkedin.com/in/naveenjsr
