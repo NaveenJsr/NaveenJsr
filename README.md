@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Naveen Kr.
 ---
-## I'm a Student, Programmer, Developer, and Blogger!!
+## I'm a Student, Programmer and Developer!!
 
 - 🔭 I am currently in 3rd yr of my College.
 - 🌱 I’m currently learning DSA and React Natives 🤞.
