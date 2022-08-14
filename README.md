@@ -5,10 +5,10 @@
 ## I'm a Student, Programmer and Developer!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I am currently in 3rd yr of my College.
-- 🌱 I’m currently learning DSA and React Natives 🤞.
+- 🌱 I’m currently learning DSA and ReactJs 🤞.
 - 👯 I’m looking to collaborate with other Open Source Contributors.
 - 🥅 2022 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love listen Hollywood Soogs.                                   
+- ⚡ Fun fact: I love listen Hollywood Songs.                                   
 
 
 ### Connect with me : <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
