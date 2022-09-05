@@ -2,6 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Naveen Kr. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ---
+
 ## I'm a Student, Programmer and Developer!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I am currently in 3rd yr of my College.
@@ -20,13 +21,26 @@
 [<img align="left" alt="naveenjsr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+<br/>
 
----
+## Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenjsr&theme=algolia" alt="naveenjsr" /></p>
 
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenjsr&show_icons=true&locale=en" alt="naveenjsr" /></p>
+## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenjsr&show_icons=true&locale=en&layout=compact" alt="naveenjsr" /></p>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenjsr&show_icons=true&title_color=3A71F9&icon_color=DEE6FA&text_color=ffffff&bg_color=0d1117&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenjsr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"/>
+</a>
+</p>
+
+<br/>
+
+![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
+
 
 
 [website]: https://naveenjsr.github.io/me/
