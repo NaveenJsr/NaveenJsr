@@ -11,7 +11,6 @@
 - 🥅 2022 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love listen Hollywood Songs.                                   
 
-
 ### Connect with me : <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
 [<img align="left" alt="naveenjsr.github.io/me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,10 +37,6 @@
 </p>
 
 <br/>
-
-![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
-
-
 
 [website]: https://naveenjsr.github.io/me/
 [twitter]: https://twitter.com/Naveen_kr_jsr
