@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76242077/137756115-3b15a7c1-72e4-4fd8-a53e-cd0372423cfe.gif" alt="Smiley face" height="200" width="500">
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/76242077/137756115-3b15a7c1-72e4-4fd8-a53e-cd0372423cfe.gif" alt="Smiley face" height="200" width="500"></p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Naveen Kr. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ---
