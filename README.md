@@ -13,7 +13,7 @@
 
 ### Connect with me : <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
-[<img align="left" alt="kritebh.github.io/me" width="22px" src="https://naveenjsr.github.io/me/" />][website]
+[<img align="left" alt="naveenjsr.github.io/me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="naveenjsr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -29,6 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenjsr&show_icons=true&locale=en&layout=compact" alt="naveenjsr" /></p>
 
 
-
+[website]: https://naveenjsr.github.io/me/
 [twitter]: https://twitter.com/Naveen_kr_jsr
 [linkedin]: https://www.linkedin.com/in/naveenjsr
