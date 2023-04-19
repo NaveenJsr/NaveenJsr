@@ -19,6 +19,8 @@
 
 [<img align="left" alt="naveenjsr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="naveenjsr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br/>
 <br/>
 
@@ -41,3 +43,4 @@
 [website]: https://naveenjsr.github.io/me/
 [twitter]: https://twitter.com/Naveen_kr_jsr
 [linkedin]: https://www.linkedin.com/in/naveenjsr
+[instagram]: https://www.instagram.com/its_me_naveen
