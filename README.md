@@ -5,7 +5,7 @@
 
 ## I'm a Student, Programmer and Developer!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I am currently in 3rd yr of my College.
+- 🔭 I am currently in final yr of my College.
 - 🌱 I’m currently learning DSA and ReactJs 🤞.
 - 👯 I’m looking to collaborate with other Open Source Contributors.
 - 🥅 2022 Goals: Start contributing to Open Source projects.
