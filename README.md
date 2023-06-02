@@ -27,16 +27,7 @@
 
 <br/>
 
-## Github Stats
 
-<p align="center">
-<a href="https://github.com/NaveenJsr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenjsr&show_icons=true&title_color=3A71F9&icon_color=DEE6FA&text_color=ffffff&bg_color=0d1117&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenjsr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"/>
-</a>
-</p>
-
-<br/>
 
 [website]: https://naveenjsr.github.io/me/
 [twitter]: https://twitter.com/Naveen_kr_jsr
