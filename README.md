@@ -1,14 +1,11 @@
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/76242077/137756115-3b15a7c1-72e4-4fd8-a53e-cd0372423cfe.gif" alt="Smiley face" height="200" width="500"></p>
-
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Naveen Kr. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
----
 
-## I'm a Student, Programmer and Developer!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## I'm a Student <img src ="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/man-student.png" width ="25">, Programmer and Developer!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I am currently in final yr of my College.
-- 🌱 I’m currently learning DSA and ReactJs 🤞.
-- 👯 I’m looking to collaborate with other Open Source Contributors.
-- 🥅 2022 Goals: Start contributing to Open Source projects.
+- 🔭 I am currently in final year of my College.
+- 🌱 I’m currently learning JavaScript 🤞.
+- 👯 I’m looking to collaborate with other Content Creators.
+- 🥅 2023 Goals: Learn Blockchain Development.
 - ⚡ Fun fact: I love listen Hollywood Songs.                                   
 
 ### Connect with me : <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
@@ -22,10 +19,14 @@
 <br/>
 <br/>
 
-## Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenjsr&theme=algolia" alt="naveenjsr" /></p>
+---
 
-<br/>
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenJsr&show_icons=true&theme=dark)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenJsr&layout=compact)](https://github.com/NaveenJsr/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=NaveenJsr&label=Visitors&color=blueviolet)
 
 
 
