@@ -5,7 +5,7 @@
 - 🔭 I am currently in final year of my College.
 - 🌱 I’m currently learning JavaScript 🤞.
 - 👯 I’m looking to collaborate with other Content Creators.
-- 🥅 2023 Goals: Learn Blockchain Development.
+- 🥅 2024 Goals: Learn Blockchain Development.
 - ⚡ Fun fact: I love listen Hollywood Songs.                                   
 
 ### Connect with me : <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
