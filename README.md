@@ -18,8 +18,7 @@
 
 ## 🤝 Connect with Me  
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Naveen_kr_jsr)
-[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_me_naveen)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](naveenjsr99@gmail.com)
 [![Scholar](https://img.shields.io/badge/Scholar-blue?style=for-the-badge&logo=scholar&logoColor=white)](https://scholar.google.com/citations?user=hL8DphsAAAAJ&hl=en)
 <br/>
 <br/>
