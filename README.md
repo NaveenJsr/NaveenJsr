@@ -18,7 +18,7 @@
 
 ## 🤝 Connect with Me  
 
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](naveenjsr99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenjsr99@gmail.com)
 [![Scholar](https://img.shields.io/badge/Scholar-blue?style=for-the-badge&logo=scholar&logoColor=white)](https://scholar.google.com/citations?user=hL8DphsAAAAJ&hl=en)
 <br/>
 <br/>
