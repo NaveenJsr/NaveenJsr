@@ -38,21 +38,9 @@
 
 ![](https://komarev.com/ghpvc/?username=NaveenJsr&label=Visitors&color=blueviolet)
 
----
-
-## 🌐 Links  
-
-- 🌍 Portfolio: https://naveenjsr.github.io/me/  
-- 🐦 Twitter: https://twitter.com/Naveen_kr_jsr  
-- 💼 LinkedIn: https://www.linkedin.com/in/naveenjsr  
-- 📸 Instagram: https://www.instagram.com/its_me_naveen  
 
 ---
 
 ⭐ *"Building intelligent systems that bridge humans and AI for real-world impact."*
 
 ---
-
-[twitter]: https://twitter.com/Naveen_kr_jsr  
-[linkedin]: https://www.linkedin.com/in/naveenjsr  
-[instagram]: https://www.instagram.com/its_me_naveen  
